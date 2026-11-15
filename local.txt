@@ -1,4 +1,4 @@
-instalacao manual:
+instalacao manual (gsocket) :
 
 -------------------------------------------------
 pkg update && pkg install proot-distro
