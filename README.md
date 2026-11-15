@@ -1,5 +1,5 @@
 
-#Ferramenta para automatizar a instalação e compilação do **QSocket** e do **GSocket** em dispositivos Android com Termux (AArch64).
+## Ferramenta para automatizar a instalação e compilação do **QSocket** e do **GSocket** em dispositivos Android com Termux (AArch64).
 
 # Projetos
 
