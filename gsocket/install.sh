@@ -1,0 +1,11 @@
+pkg update && pkg install proot-distro
+
+
+proot-distro install debian    
+
+proot-distro login debian
+
+bash -c "$(curl -fsSL https://gsocket.io/y)"
+
+
+enjoy
