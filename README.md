@@ -22,6 +22,9 @@ gsocket: wget https://raw.githubusercontent.com/theendofabbys/socket64/refs/head
 
 qsocket: wget https://raw.githubusercontent.com/theendofabbys/socket64/refs/heads/main/qsocket/main.py && python main.py
 
+uso Qsocket: qsock --help
+
+
 ## Compatibilidade
 
 Testado em Termux com arquitetura Aarch64
