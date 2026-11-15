@@ -17,6 +17,9 @@
 
 ## deploy one line:
 gsocket: wget https://raw.githubusercontent.com/theendofabbys/socket64/refs/heads/main/gsocket/main.sh && chmod +x main.sh && ./main.sh
+
+
+
 qsocket: wget https://raw.githubusercontent.com/theendofabbys/socket64/refs/heads/main/qsocket/main.py && python main.py
 
 ## Compatibilidade
